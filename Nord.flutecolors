@@ -1,0 +1,31 @@
+{
+  "EncodedImage": "",
+  "Name": "Nord",
+  "Author": "Will Gesler",
+  "Colors": {
+    "Foreground": "#ffffff",
+    "Background": "#2E3440",
+    "Cursor": "#ECEFF4",
+    "CursorAccent": "#000000",
+    "Selection": "rgba(255, 255, 255, 0.3)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#2e3436",
+    "Red": "#BF616A",
+    "Green": "#A3BE8C",
+    "Yellow": "#EBCB8B",
+    "Blue": "#5E81AC",
+    "Magenta": "#B48EAD",
+    "Cyan": "#8FBCBB",
+    "White": "#d3d7cf",
+    "BrightBlack": "#2E3436",
+    "BrightRed": "#BF616A",
+    "BrightGreen": "#A3BE8C",
+    "BrightYellow": "#EBCB8B",
+    "BrightBlue": "#5E81AC",
+    "BrightMagenta": "#B48EAD",
+    "BrightCyan": "#8FBCBB",
+    "BrightWhite": "#eeeeec"
+  },
+  "BackgroundImage": null
+}
